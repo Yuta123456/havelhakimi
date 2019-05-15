@@ -84,3 +84,4 @@ void printdata(int*data ,int element){
    }
    printf("\n");
 }
+//aiueo
